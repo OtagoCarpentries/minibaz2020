@@ -8,8 +8,8 @@ Sign up is at the bottom of the page [link]()
 
 | Duration | Monday | Tuesday | Wednesday | Thursday |
 |---|---|---|---|---|
-9:30 - 11:30| Intro R | Manipulation / Plotting | Bash | Workflow |
-2:00 - 4:00 | HackMD / RMarkdown | Genomic Data in R | Regex | Snakemake | 
+9:30 - 11:30| Intro R | Genomic Data in R | Bash | Workflow |
+2:00 - 4:00 | HackMD / RMarkdown | Manipulation / Plotting | Regex | Snakemake | 
 
 ## Venue
 The event will be in the Department of Biochemistry Ground Floor Seminar Room.
