@@ -5,8 +5,8 @@ If you stike difficulty there will be helpers available during the workshops
 
 ## Data
 
-Manipulation workshop uses [THIS](https://ndownloader.figshare.com/files/2292169) dataset which will download as a file ```combined.csv```
-Plotting then uses [THIS]() file which is created at the end of the Manipulation session names ```surveys_complete.csv```
+Manipulation workshop uses [THIS](https://ndownloader.figshare.com/files/2292169) dataset which will download as a file ```combined.csv```  
+Plotting then uses [THIS](https://github.com/OtagoCarpentries/minibaz2020/surveys_complete.csv) file which is created at the end of the Manipulation session names ```surveys_complete.csv```
 
 The Bash session uses ```data-shell.zip``` found at the top of the [Unix Shell Setup](http://swcarpentry.github.io/shell-novice/setup.html) pages
 
