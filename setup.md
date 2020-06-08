@@ -1,9 +1,9 @@
-Software Install Instructions
+# Software Install Instructions
 Instuctions to install the software a required by the workshops are below.
 
 If you stike difficulty there will be helpers available during the workshops
 
-BASH
+## BASH  
 [Software Carpentry](http://swcarpentry.github.io/shell-novice/setup.html) has a page with setup instructions for the shell lessons.
 
 Linux and Mac users should already have an appropriate system installed which can be accessed via the Terminal.
@@ -11,7 +11,7 @@ Linux and Mac users should already have an appropriate system installed which ca
 Windows systems do not typically have a system installed but options are available. SWC encourages the use of Git Bash that comes with [Git for Windows](https://gitforwindows.org/), current version 2.27.0, choose the appropriate .exe and follow the instructions.
 
 
-R
+## R  
 Latest Release, Arbor Day, R-4.0.1
 
 go to [Download R](https://cran.stat.auckland.ac.nz/) at the Auckland CRAN mirror site.
@@ -25,7 +25,7 @@ Linux have various options and the best is to directly install from the command 
    sudo apt-get update
    sudo apt-get install r-base
 
-RStudio
+## RStudio  
 Before installing RStudio you need to have installed R 
 
 Go to www.rstudio.com and click on the "Download RStudio" button, Latest version 1.3.
