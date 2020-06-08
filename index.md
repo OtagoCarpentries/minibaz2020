@@ -9,7 +9,7 @@ Sign up is at the bottom of the page [link]()
 
 | Duration | Monday | Tuesday | Wednesday | Thursday |
 |---|---|---|---|---|
-9:30 - 11:30| Intro R | Genomic Data in R | Bash | Workflow |
+9:30 - 11:30| Intro R | Genomic Data in R | Bash | Reproducible Workflow |
 2:00 - 4:00 | HackMD / RMarkdown | Manipulation / Plotting | Regex | Snakemake | 
 
 ## Venue
@@ -67,7 +67,7 @@ You can write notes with other people on your desktop, tablet or even on the pho
 
 [R Markdown](https://rmarkdown.rstudio.com/) is a tool for writing reproducible reports, document and presentations
 
-### Workflow
+### Reproducible Workflow
 Useful prior knowledge = Intro to R or equivalent  
 
 Example of a workflow tying together R, R-Studio and R Markdown to write a reproducuble report
@@ -80,3 +80,7 @@ The [Snakemake](https://snakemake.readthedocs.io/en/stable/) workflow management
 
 
 ## Eventbrite
+
+Register at Evenbrite [HERE](https://www.eventbrite.com/e/minibaz-2020-tickets-108788920590)
+
+Please "Add On" the workshops you would like to attend, numbers are limited to 25 for each session.
