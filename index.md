@@ -2,15 +2,14 @@
 
 Welcome to 
 
-
 Workshop sign up is at the bottom of the page [link]()
 
 ## Schedule
 
 | Duration | Monday | Tuesday | Wednesday | Thursday |
 |---|---|---|---|---|
-9:30 - 11:30| Intro R | Manipulation\Plotting | Bash | Workflow |
-2:00 - 4:00 | HackMD RMarkdown | Genomic Data in R | Regex | Snakemake | 
+9:30 - 11:30| Intro R | Manipulation / Plotting | Bash | Workflow |
+2:00 - 4:00 | HackMD / RMarkdown | Genomic Data in R | Regex | Snakemake | 
 
 ## Workshops
 
@@ -18,16 +17,14 @@ Workshop sign up is at the bottom of the page [link]()
 This session uses the Carpentries, Introduction to R [lessons](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
 
 ##### Learning Objectives
-
-* Define the following terms as they relate to R: object, assign, call, function, arguments, options.
+* Define the following terms as they relate to R: 
+    - object, assign, call, function, arguments, options.
 * Assign values to objects in R.
 * Learn how to name objects
 * Use comments to inform script.
-* Solve simple arithmetic operations in R.
 * Call functions and use arguments to change their default options.
 * Inspect the content of vectors and manipulate their content.
 * Subset and extract values from vectors.
-* Analyze vectors with missing data.
 
 [link to more detailed setup instructions](https://datacarpentry.org/R-ecology-lesson/index.html#setup_instructions)
 
@@ -42,11 +39,32 @@ Lessons can be found at
 [The Unix Shell](https://swcarpentry.github.io/shell-novice/) 
 
 ##### Learning Objectives
-
 * Files and Directories
 * History and Tab Completion
 * Pipes and Redirection
 * Looping Over Files
+
+### Genomic Data in R
+Using R
+
+### REGEX
+Using regular expression to find and filter data
+
+### HackMD / R Markdown
+
+[HackMD](https://hackmd.io/) is a realtime, multi-platform collaborative markdown knowledge base.
+You can write notes with other people on your desktop, tablet or even on the phone.
+
+[R Markdown](https://rmarkdown.rstudio.com/) is a tool for writing reproducible reports, document and presentations
+
+### Workflow
+Example of a workflow tying together R, R-Studio and R Markdown to write a reproducuble report
+  * Summarize Data
+  * Plotting
+  * References
+
+### Snakemake
+The [Snakemake](https://snakemake.readthedocs.io/en/stable/) workflow management system is a tool to create reproducible and scalable data analyses. Workflows are described via a human readable, Python based language. They can be seamlessly scaled to server, cluster, grid and cloud environments, without the need to modify the workflow definition. Finally, Snakemake workflows can entail a description of required software, which will be automatically deployed to any execution environment.
 
 
 ## Eventbrite
