@@ -1,4 +1,5 @@
 # MiniBaz 2020
+#### Monday June 22nd - Thursday June 25th
 
 Welcome to MiniBaz2020 (the COIVD19 version of [Research Bazaar](https://otagocarpentries.github.io/resbaz2019/dunedin/)). This year we are running a selection of stand alone workshops to pick and chose from. Session will be targetted towards a molecular biology/genetics background with one in the morning then one in the afternoon. You don't need to sign up for everything, nly those workshops that interest you. 
 
