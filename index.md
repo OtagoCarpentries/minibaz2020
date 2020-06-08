@@ -20,7 +20,7 @@ Skill Level Description
 (2) Some prior knowledge and wanting to add further skills  
 (3) Wider knowledge  
 
-Install instuctions for each of the workshop sessions are [HERE]()  
+Install instuctions for each of the workshop sessions are [HERE](https://github.com/OtagoCarpentries/minibaz2020/edit/master/setup.md)  
 
 ### Intro to R (1)
 This session uses the Carpentries, Introduction to R [lessons](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
