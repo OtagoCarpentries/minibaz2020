@@ -3,6 +3,13 @@ Instuctions to install the software a required by the workshops are below.
 
 If you stike difficulty there will be helpers available during the workshops
 
+## Data
+
+Manipulation workshop uses [THIS](https://ndownloader.figshare.com/files/2292169) dataset which will download as a file ```combined.csv```
+Plotting then uses [THIS]() file which is created at the end of the Manipulation session names ```surveys_complete.csv```
+
+The Bash session uses ```data-shell.zip``` found at the top of the [Unix Shell Setup](http://swcarpentry.github.io/shell-novice/setup.html) pages
+
 ## BASH  
 [Software Carpentry](http://swcarpentry.github.io/shell-novice/setup.html) has a page with setup instructions for the shell lessons.
 
@@ -44,5 +51,8 @@ Open up RStudio and in the console type
 
 install.packages('tidyverse')
 Select the mirror to download from and wait for the install to complete.
+
+## Snakemake
+Follow the install requirements for snakemake [HERE](https://snakemake.readthedocs.io/en/stable/getting_started/installation.html)
 
 if the install was unsuccessful you likely need some additional files (or your R or OS might need updated). Come see a helper during the event for help.
