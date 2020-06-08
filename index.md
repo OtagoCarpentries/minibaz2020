@@ -1,8 +1,8 @@
 # MiniBaz 2020
 
-Welcome to 
+Welcome to Minibaz 2020. This year we are running a selection of stand alone workshops to pick and chose from. A session in the morning then one in the afternoon. You don;t need to sign up for everything, nly those workshops that interest you. 
 
-Workshop sign up is at the bottom of the page [link]()
+Sign up is at the bottom of the page [link]()
 
 ## Schedule
 
@@ -14,12 +14,11 @@ Workshop sign up is at the bottom of the page [link]()
 ## Venue
 The event will be in the Department of Biochemistry Ground Floor Seminar Room.
 
-## Workshops
-Skill Level Description
-(1) New to the topic, no experience required
-(2) Some prior knowledge and wanting to add further skills
-(3) Wider knowledge
-
+## Workshops  
+Skill Level Description  
+(1) New to the topic, no experience required  
+(2) Some prior knowledge and wanting to add further skills  
+(3) Wider knowledge  
 
 ### Intro to R (1)
 This session uses the Carpentries, Introduction to R [lessons](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
@@ -56,7 +55,7 @@ Lessons can be found at
 Using R
 
 ### REGEX (2)
-Using regular expression to find and filter data
+Practical Bash, using ```grep```, ```find``` and other tools to search and filter your data files on the command line
 
 ### HackMD / R Markdown (2)
 
