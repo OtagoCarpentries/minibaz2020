@@ -9,7 +9,7 @@ Sign up is at the bottom of the page [link](https://www.eventbrite.com/e/minibaz
 
 ## Schedule
 
-Workshops are designed to be stand-alone but complementary. 
+Workshops are designed to be stand-alone but complementary, but some workshops do have expected prior knowledge. 
 
 | Duration | Monday | Tuesday | Wednesday | Thursday |
 |---|---|---|---|---|
@@ -61,7 +61,23 @@ This workshop will introduce markdown which is a syntax for encoding formatting 
 **Expected prior knowledge:** Understanding of basic R syntax would be useful for the RMarkdown portion.
 
 
-**Required software:** R and RStudio (refer to setup instructions)
+**Required software:** R and RStudio (refer to [setup instructions](https://github.com/OtagoCarpentries/minibaz2020/blob/master/setup.md))
+
+---
+
+### Genomic Data in R
+
+This workshop will introduce R can be used with genomic data, specifically how to manipulate genomic regions, and the use of genomic annotations from external sources.
+
+**Expected prior knowledge:** basic R syntax (such as Intro to R)  
+
+**Required software:** R and RStudio (refer to [setup instructions](https://github.com/OtagoCarpentries/minibaz2020/blob/master/setup.md))
+
+By attending this workshop, learners can expect to come away understanding:
+
+- How to represent genomic regions in R.
+- How to find and access annotation information with R.
+- How to install R packages from Bioconductor.
 
 ----
 
@@ -71,7 +87,7 @@ This workshop introduces how to use R for manipulating datasets, and the beginni
 
 **Expected prior knowledge:** basic R syntax (such as Intro to R) 
 
-**Required software:** R and RStudio (refer to setup instructions)
+**Required software:** R and RStudio (refer to [setup instructions](https://github.com/OtagoCarpentries/minibaz2020/blob/master/setup.md))
 
 By attending, learners can expect to understand:
 
@@ -93,7 +109,7 @@ This workshop aims to introduce the use of the Unix shell for the purposes of in
 
 **Expected prior knowledge:** NONE 
 
-**Required software:** Unix shell (refer to setup instructions)
+**Required software:** Unix shell (refer to [setup instructions](https://github.com/OtagoCarpentries/minibaz2020/blob/master/setup.md))
 
 By attending this workshop, learners can expect to come away understanding
 
@@ -104,21 +120,7 @@ By attending this workshop, learners can expect to come away understanding
 Lesson content: [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 
 
----
 
-### Genomic Data in R
-
-This workshop will introduce R can be used with genomic data, specifically how to manipulate genomic regions, and the use of genomic annotations from external sources.
-
-**Expected prior knowledge:** basic R syntax (such as Intro to R)  
-
-**Required software:** R and RStudio
-
-By attending this workshop, learners can expect to come away understanding:
-
-- How to represent genomic regions in R.
-- How to find and access annotation information with R.
-- How to install R packages from Bioconductor.
 
 ---
 
@@ -127,6 +129,8 @@ By attending this workshop, learners can expect to come away understanding:
 Practical Bash, using `grep`, `sed` and other tools to search and filter your data files on the command line
 
 **Expected prior knowledge:** Intro to Bash or equivalent 
+
+**Required software:** Unix shell (refer to [setup instructions](https://github.com/OtagoCarpentries/minibaz2020/blob/master/setup.md))
 
 By attending, learners can expect to understand:
 
@@ -150,7 +154,7 @@ This report will include examples of:
 
 **Expected prior knowledge:** The Intro to R, HackMD/RMarkdown, and Data manipulation and plotting in R workshops, or equivalent experience.
 
-**Required software:** R and RStudio
+**Required software:** R and RStudio (refer to [setup instructions](https://github.com/OtagoCarpentries/minibaz2020/blob/master/setup.md))
 
 ---
 
@@ -162,7 +166,7 @@ This workshop is aimed at people who are already using tools such as the Unix sh
 
 **Expected prior knowledge:** Understanding of Unix file system and running of commands. 
 
-**Required software:** Conda
+**Required software:** Snakemake (refer to [setup instructions](https://github.com/OtagoCarpentries/minibaz2020/blob/master/setup.md))
 
 ---
 
