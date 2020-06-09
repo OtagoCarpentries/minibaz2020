@@ -5,7 +5,7 @@ Welcome to MiniBaz2020 (the COIVD19 version of [Research Bazaar](https://otagoca
 
 These worshops are designed as _tasters_ rather than being comprehensive on the given topics.
 
-Sign up is at the bottom of the page [link]()
+Sign up is at the bottom of the page [link](https://www.eventbrite.com/e/minibaz-2020-tickets-108788920590)
 
 ## Schedule
 
