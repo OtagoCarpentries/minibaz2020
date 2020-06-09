@@ -1,7 +1,7 @@
 # MiniBaz 2020
 #### Monday June 22nd - Thursday June 25th
 
-Welcome to MiniBaz2020 (the COIVD19 version of [Research Bazaar](https://otagocarpentries.github.io/resbaz2019/dunedin/)). This year we are **running a selection of stand-alone workshops** to pick and chose from. Session will be targetted towards a molecular biology/genetics background with one in the morning then one in the afternoon. You don't need to sign up for everything, only those workshops that interest you. 
+Welcome to MiniBaz2020 (the COIVD19 version of [Research Bazaar](https://otagocarpentries.github.io/resbaz2019/dunedin/)). This year we are **running a selection of stand-alone workshops** to pick and chose from. Sessions will be targeted towards a molecular biology/genetics background with one in the morning then one in the afternoon. You don't need to sign up for everything, only those workshops that interest you. 
 
 These worshops are designed as _tasters_ rather than being comprehensive on the given topics.
 
@@ -70,7 +70,7 @@ By attending, learners can expect to understand:
 
 - How to read data into R.
 - How to subset and create summaries from data.
-- How to create and customise plots in R with ggplot2.
+- How to create and customise plots in R with `ggplot2`.
 
 Lessons can be found at
 * [Manipulating Data Frames with `dplyr`](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)
