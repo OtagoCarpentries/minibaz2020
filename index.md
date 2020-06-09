@@ -147,6 +147,8 @@ The [Snakemake](https://snakemake.readthedocs.io/en/stable/) workflow management
 
 This workshop is aimed at people who are already using tools such as the Unix shell and R as part of their workflows and will cover how to start creating a reproducible workflow of multiple steps using an example bioinformatics pipeline.
 
+**Expected prior knowledge:** Understanding of Unix file system and running of commands. 
+
 ---
 
 ## Eventbrite
