@@ -23,12 +23,16 @@ go to [Download R](https://cran.stat.auckland.ac.nz/) at the Auckland CRAN mirro
 Click on the Download R for "YOUR SYSTEM" link at the top of the page.
 Click on the file containing the latest version of R under "Files."
 
-for Mac it is the .pkg file
-for Windows go to base then the Download at the top
-Linux have various options and the best is to directly install from the command line.
+For **Mac** it is the .pkg file
 
+For **Windows** go to base then the Download at the top
+
+**Linux** have various options and the best is to directly install from the command line. Such as
+
+```
    sudo apt-get update
    sudo apt-get install r-base
+```
 
 ## RStudio  
 Before installing RStudio you need to have installed R 
@@ -53,9 +57,9 @@ Select the mirror to download from and wait for the install to complete.
 ## BASH  
 [Software Carpentry](http://swcarpentry.github.io/shell-novice/setup.html) has a page with setup instructions for the shell lessons.
 
-Linux and Mac users should already have an appropriate system installed which can be accessed via the Terminal.
+**Linux and Mac users** should already have an appropriate system installed which can be accessed via the Terminal.
 
-Windows systems do not typically have a system installed but options are available. SWC encourages the use of Git Bash that comes with [Git for Windows](https://gitforwindows.org/), current version 2.27.0, choose the appropriate .exe and follow the instructions.
+**Windows systems** do not typically have a system installed but options are available. SWC encourages the use of Git Bash that comes with [Git for Windows](https://gitforwindows.org/), current version 2.27.0, choose the appropriate .exe and follow the instructions.
 
 
 ## Snakemake
