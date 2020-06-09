@@ -81,7 +81,7 @@ The [Snakemake](https://snakemake.readthedocs.io/en/stable/) workflow management
 
 ## Eventbrite
 
-Register at Evenbrite [HERE](https://www.eventbrite.com/e/minibaz-2020-tickets-108788920590)
+Register at Evenbrite [HERE](https://www.eventbrite.com/e/minibaz-2020-tickets-108788920590){:target="_blank"}
 
 Please select the workshops you would like to attend, numbers are limited to 25 for each session.  
 If a particular workshop is full, please email carpentries@otago.ac.nz and we will see what we can do.  
