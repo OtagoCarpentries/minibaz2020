@@ -56,7 +56,7 @@ Useful prior knowledge = NONE
 Using R
 Useful prior knowledge = Intro to R or equivalent  
 
-### REGEX
+### REGEX (Regular Expressions)  
 Practical Bash, using ```grep```, ```find``` and other tools to search and filter your data files on the command line
 Useful prior knowldge = Intro to Bash or equivalent 
 
@@ -83,4 +83,5 @@ The [Snakemake](https://snakemake.readthedocs.io/en/stable/) workflow management
 
 Register at Evenbrite [HERE](https://www.eventbrite.com/e/minibaz-2020-tickets-108788920590)
 
-Please "Add On" the workshops you would like to attend, numbers are limited to 25 for each session.
+Please select the workshops you would like to attend, numbers are limited to 25 for each session.  
+If a particular workshop is full, please email carpentries@otago.ac.nz and we will see what we can do.  
