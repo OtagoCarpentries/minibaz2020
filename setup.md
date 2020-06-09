@@ -1,7 +1,7 @@
 # Software Install Instructions
 Instuctions to install the software a required by the workshops are below.
 
-If you stike difficulty there will be helpers available 9-9.30 each day, and during the workshops
+If you strike difficulty there will be helpers available 9-9.30 each day, and during the workshops
 
 
 Workshop | Software needed
