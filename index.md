@@ -56,7 +56,7 @@ You can write notes with other people on your desktop, tablet or even on the pho
 
 [R Markdown](https://rmarkdown.rstudio.com/) is a tool for writing reproducible reports, document and presentations
 
-Useful prior knowldge = Understanding of basic R syntax would be useful for the RMarkdown portion.
+**Expected prior knowledge:** Understanding of basic R syntax would be useful for the RMarkdown portion.
 
 ----
 
@@ -137,7 +137,7 @@ This report will include examples of:
   * Plotting
   * Referencing/Citations
 
-**Useful prior knowledge:** The Intro to R, HackMD/RMarkdown, and Data manipulation and plotting in R workshops, or equivalent experience.
+**Expected prior knowledge:** The Intro to R, HackMD/RMarkdown, and Data manipulation and plotting in R workshops, or equivalent experience.
 
 ---
 
