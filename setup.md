@@ -16,22 +16,6 @@ Genomic Data in R |  R and RStudio
 Snakemake | Snakemake
 
 
-
-## Data
-
-Manipulation workshop uses [THIS](https://ndownloader.figshare.com/files/2292169) dataset which will download as a file ```combined.csv```  
-Plotting then uses [THIS](https://github.com/OtagoCarpentries/minibaz2020/surveys_complete.csv) file which is created at the end of the Manipulation session named ```surveys_complete.csv```. Right Click to download.
-
-The Bash session uses ```data-shell.zip``` found at the top of the [Unix Shell Setup](http://swcarpentry.github.io/shell-novice/setup.html) pages
-
-## BASH  
-[Software Carpentry](http://swcarpentry.github.io/shell-novice/setup.html) has a page with setup instructions for the shell lessons.
-
-Linux and Mac users should already have an appropriate system installed which can be accessed via the Terminal.
-
-Windows systems do not typically have a system installed but options are available. SWC encourages the use of Git Bash that comes with [Git for Windows](https://gitforwindows.org/), current version 2.27.0, choose the appropriate .exe and follow the instructions.
-
-
 ## R  
 Latest Release, Arbor Day, R-4.0.1
 
@@ -66,7 +50,23 @@ Open up RStudio and in the console type
 install.packages('tidyverse')
 Select the mirror to download from and wait for the install to complete.
 
+## BASH  
+[Software Carpentry](http://swcarpentry.github.io/shell-novice/setup.html) has a page with setup instructions for the shell lessons.
+
+Linux and Mac users should already have an appropriate system installed which can be accessed via the Terminal.
+
+Windows systems do not typically have a system installed but options are available. SWC encourages the use of Git Bash that comes with [Git for Windows](https://gitforwindows.org/), current version 2.27.0, choose the appropriate .exe and follow the instructions.
+
+
 ## Snakemake
 Follow the install requirements for snakemake [HERE](https://snakemake.readthedocs.io/en/stable/getting_started/installation.html)
 
 if the install was unsuccessful you likely need some additional files (or your R or OS might need updated). Come see a helper during the event for help.
+
+
+## Data
+
+Manipulation workshop uses [THIS](https://ndownloader.figshare.com/files/2292169) dataset which will download as a file ```combined.csv```  
+Plotting then uses [THIS](https://github.com/OtagoCarpentries/minibaz2020/surveys_complete.csv) file which is created at the end of the Manipulation session named ```surveys_complete.csv```. Right Click to download.
+
+The Bash session uses ```data-shell.zip``` found at the top of the [Unix Shell Setup](http://swcarpentry.github.io/shell-novice/setup.html) pages
