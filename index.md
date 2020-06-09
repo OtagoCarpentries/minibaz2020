@@ -34,6 +34,7 @@ This session uses the Carpentries, Introduction to R [lessons](https://datacarpe
 
 **Expected prior knowledge:** NONE  
 
+**Required software:** R and RStudio (refer to setup instructions)
 
 By attending this workshop, learners should come away understanding:
 
@@ -51,12 +52,16 @@ By attending this workshop, learners should come away understanding:
 
 ### HackMD / R Markdown
 
-[HackMD](https://hackmd.io/) is a realtime, multi-platform collaborative markdown knowledge base.
-You can write notes with other people on your desktop, tablet or even on the phone.
+This workshop will introduce markdown which is a syntax for encoding formatting from which documents can be made in multiple output formats from a single source document.
 
-[R Markdown](https://rmarkdown.rstudio.com/) is a tool for writing reproducible reports, document and presentations
+[HackMD](https://hackmd.io/) is a realtime, multi-platform collaborative markdown knowledge base. You can write notes with other people on your desktop, tablet or even on the phone.
+
+[R Markdown](https://rmarkdown.rstudio.com/) is a tool for writing reproducible reports, document and presentations by combining markdown and R code.
 
 **Expected prior knowledge:** Understanding of basic R syntax would be useful for the RMarkdown portion.
+
+
+**Required software:** R and RStudio (refer to setup instructions)
 
 ----
 
@@ -65,6 +70,8 @@ You can write notes with other people on your desktop, tablet or even on the pho
 This workshop introduces how to use R for manipulating datasets, and the beginning of plotting data. It is expected that attendees would have an understanding of basic R syntax (such as by attending the Intro to R workshop).
 
 **Expected prior knowledge:** basic R syntax (such as Intro to R) 
+
+**Required software:** R and RStudio (refer to setup instructions)
 
 By attending, learners can expect to understand:
 
@@ -86,6 +93,8 @@ This workshop aims to introduce the use of the Unix shell for the purposes of in
 
 **Expected prior knowledge:** NONE 
 
+**Required software:** Unix shell (refer to setup instructions)
+
 By attending this workshop, learners can expect to come away understanding
 
 - How to navigate the Unix file system.
@@ -102,6 +111,8 @@ Lesson content: [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 This workshop will introduce R can be used with genomic data, specifically how to manipulate genomic regions, and the use of genomic annotations from external sources.
 
 **Expected prior knowledge:** basic R syntax (such as Intro to R)  
+
+**Required software:** R and RStudio
 
 By attending this workshop, learners can expect to come away understanding:
 
@@ -139,6 +150,8 @@ This report will include examples of:
 
 **Expected prior knowledge:** The Intro to R, HackMD/RMarkdown, and Data manipulation and plotting in R workshops, or equivalent experience.
 
+**Required software:** R and RStudio
+
 ---
 
 ### Snakemake
@@ -148,6 +161,8 @@ The [Snakemake](https://snakemake.readthedocs.io/en/stable/) workflow management
 This workshop is aimed at people who are already using tools such as the Unix shell and R as part of their workflows and will cover how to start creating a reproducible workflow of multiple steps using an example bioinformatics pipeline.
 
 **Expected prior knowledge:** Understanding of Unix file system and running of commands. 
+
+**Required software:** Conda
 
 ---
 
