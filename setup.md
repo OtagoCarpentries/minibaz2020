@@ -1,7 +1,21 @@
 # Software Install Instructions
 Instuctions to install the software a required by the workshops are below.
 
-If you stike difficulty there will be helpers available during the workshops
+If you stike difficulty there will be helpers available 9-9.30 each day, and during the workshops
+
+
+Workshop | Software needed
+|---|---|
+Intro to R | R and RStudio
+HackMD / RMarkdown |  R and RStudio
+Genomic Data in R |  R and RStudio
+ Data Manipulation / Plotting in R |  R and RStudio
+ Bash | Bash
+ Regex | Bash
+ Reproducible Report - Worked Example |  R and RStudio
+Snakemake | Snakemake
+
+
 
 ## Data
 
