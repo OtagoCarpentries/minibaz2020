@@ -36,7 +36,7 @@ Windows systems do not typically have a system installed but options are availab
 Latest Release, Arbor Day, R-4.0.1
 
 go to [Download R](https://cran.stat.auckland.ac.nz/) at the Auckland CRAN mirror site.
-Click on the Download R for YOUR SYSTEM" link at the top of the page.
+Click on the Download R for "YOUR SYSTEM" link at the top of the page.
 Click on the file containing the latest version of R under "Files."
 
 for Mac it is the .pkg file
