@@ -51,7 +51,7 @@ Otherwise, make sure you have the latest version of R installed
 
 Open up RStudio and in the console type
 
-install.packages('tidyverse')
+```install.packages('tidyverse')```  
 Select the mirror to download from and wait for the install to complete.
 
 ## BASH  
