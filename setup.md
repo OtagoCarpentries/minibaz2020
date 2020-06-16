@@ -52,7 +52,30 @@ Otherwise, make sure you have the latest version of R installed
 Open up RStudio and in the console type
 
 ```install.packages('tidyverse')```  
-Select the mirror to download from and wait for the install to complete.
+Select the mirror to download from and wait for the install to complete. After install type 
+
+```library(tidyverse)```
+
+ and your output should look similar to this.    
+
+```
+> library(tidyverse)
+── Attaching packages ────────────────────────────────────────────────────────────────────────────────────────────────────────── tidyverse 1.3.0 ──
+✓ ggplot2 3.3.0     ✓ purrr   0.3.4
+✓ tibble  3.0.1     ✓ dplyr   0.8.5
+✓ tidyr   1.0.3     ✓ stringr 1.4.0
+✓ readr   1.3.1     ✓ forcats 0.5.0
+── Conflicts ───────────────────────────────────────────────────────────────────────────────────────────────────────────── tidyverse_conflicts() ──
+x dplyr::filter()  masks stats::filter()
+x purrr::is_null() masks testthat::is_null()
+x dplyr::lag()     masks stats::lag()
+x dplyr::matches() masks tidyr::matches(), testthat::matches()
+```
+If yuou get the following:
+```
+Error in library(tidyverse) : there is no package called ‘tidyverse’
+```
+it hasn't installed correctly, please e-mail for assitance.
 
 ## BASH  
 [Software Carpentry](http://swcarpentry.github.io/shell-novice/setup.html) has a page with setup instructions for the shell lessons.
