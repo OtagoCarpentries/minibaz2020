@@ -86,9 +86,19 @@ it hasn't installed correctly, please e-mail for assitance.
 
 
 ## Snakemake
-Follow the install requirements for snakemake [HERE](https://snakemake.readthedocs.io/en/stable/getting_started/installation.html)
 
-if the install was unsuccessful you likely need some additional files (or your R or OS might need updated). Come see a helper during the event for help.
+This workshop will go through setting up snakemake as part of the lesson but if you would like to ahve a go yourself follow the install requirements for snakemake [HERE](https://snakemake.readthedocs.io/en/stable/getting_started/installation.html)
+
+**Windows users**:
+The tutorial that we will be running through uses bioinformatics programs that are unix specific and as such there are additional steps before installing snakemake so we will be making use of a unix virtual machine.
+
+Please download and install [Vagrant](https://www.vagrantup.com/downloads.html) prior to the workshop.
+
+
+
+
+
+
 
 
 ## Data
