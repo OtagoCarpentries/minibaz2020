@@ -71,7 +71,7 @@ x purrr::is_null() masks testthat::is_null()
 x dplyr::lag()     masks stats::lag()
 x dplyr::matches() masks tidyr::matches(), testthat::matches()
 ```
-If yuou get the following:
+If you get the following:
 ```
 Error in library(tidyverse) : there is no package called ‘tidyverse’
 ```
