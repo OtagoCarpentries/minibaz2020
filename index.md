@@ -48,6 +48,8 @@ By attending this workshop, learners should come away understanding:
 [link to more detailed setup instructions](https://datacarpentry.org/R-ecology-lesson/index.html#setup_instructions)
 
 
+End of workshop survey: https://tinyurl.com/minibaz2020-intro-r
+
 ---
 
 ### HackMD / R Markdown
