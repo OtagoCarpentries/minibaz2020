@@ -65,6 +65,9 @@ This workshop will introduce markdown which is a syntax for encoding formatting 
 
 **Required software:** R and RStudio (refer to [setup instructions](https://github.com/OtagoCarpentries/minibaz2020/blob/master/setup.md))
 
+
+End of workshop survey: [https://tinyurl.com/minibaz2020-markdown](https://tinyurl.com/minibaz2020-markdown)
+
 ---
 
 ### Genomic Data in R
