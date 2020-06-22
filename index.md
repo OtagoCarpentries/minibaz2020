@@ -86,6 +86,14 @@ By attending this workshop, learners can expect to come away understanding:
 - How to find and access annotation information with R.
 - How to install R packages from Bioconductor.
 
+
+[Link to lesson](https://htmlpreview.github.io/?https://github.com/murraycadzow/R_tutorials/blob/master/genomics/genomic_data_in_r.html?raw=true)
+
+[Link to lesson underlying code](https://github.com/murraycadzow/R_tutorials/tree/master/genomics)
+
+
+End of workshop survey: [https://tinyurl.com/minibaz2020-genomic-r](https://tinyurl.com/minibaz2020-genomic-r)
+
 ----
 
 ### Manipulating Data / Visualising Data
