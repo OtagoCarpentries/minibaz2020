@@ -54,7 +54,7 @@ End of workshop survey: [https://tinyurl.com/minibaz2020-intro-r](https://tinyur
 
 ### HackMD / R Markdown
 
-Link to workshop material: [https://github.com/mikblack/MiniBaz2020-HackMD](https://github.com/mikblack/MiniBaz2020-HackMD)
+Link to workshop material: [https://github.com/mikblack/MiniBaz2020-HackMD](https://github.com/mikblack/MiniBaz2020-HackMD#minibaz2020---hackmd--r-markdown)
 
 This workshop will introduce markdown which is a syntax for encoding formatting from which documents can be made in multiple output formats from a single source document.
 
