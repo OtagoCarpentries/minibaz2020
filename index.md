@@ -54,6 +54,8 @@ End of workshop survey: [https://tinyurl.com/minibaz2020-intro-r](https://tinyur
 
 ### HackMD / R Markdown
 
+Link to workshop material: https://github.com/mikblack/MiniBaz2020-HackMD
+
 This workshop will introduce markdown which is a syntax for encoding formatting from which documents can be made in multiple output formats from a single source document.
 
 [HackMD](https://hackmd.io/) is a realtime, multi-platform collaborative markdown knowledge base. You can write notes with other people on your desktop, tablet or even on the phone.
