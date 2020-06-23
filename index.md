@@ -114,6 +114,7 @@ Lessons can be found at
 * [Manipulating Data Frames with `dplyr`](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)
 * [Data Visualisation with `ggplot2`](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
 
+[Link to manipulating data code](https://github.com/laninsky/teaching/blob/master/data_manipulation_notes_23June2020.R)
 
 End of workshop survey: [https://tinyurl.com/minibaz2020-data-r](https://tinyurl.com/minibaz2020-data-r)
 
