@@ -115,6 +115,7 @@ Lessons can be found at
 * [Data Visualisation with `ggplot2`](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
 
 [Link to manipulating data code](https://github.com/laninsky/teaching/blob/master/data_manipulation_notes_23June2020.R)  
+
 [Link to the plotting code used](https://github.com/ldutoit/teaching_notes/blob/master/ggplotintro.md)  
 
 End of workshop survey: [https://tinyurl.com/minibaz2020-data-r](https://tinyurl.com/minibaz2020-data-r)
