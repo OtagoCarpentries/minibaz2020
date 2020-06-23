@@ -138,7 +138,7 @@ By attending this workshop, learners can expect to come away understanding
 
 Lesson content: [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 
-
+End of workshop survey: [https://tinyurl.com/minibaz2020-bash](https://tinyurl.com/minibaz2020-bash)
 
 
 ---
@@ -157,6 +157,7 @@ By attending, learners can expect to understand:
 - How to search and replace text in a document using patterns
 - Some of the features and use cases of `grep` and `sed`
 
+End of workshop survey: [https://tinyurl.com/minibaz2020-regex](https://tinyurl.com/minibaz2020-regex)
 
 ---
 
