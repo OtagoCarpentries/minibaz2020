@@ -159,6 +159,8 @@ By attending, learners can expect to understand:
 - How to search and replace text in a document using patterns
 - Some of the features and use cases of `grep` and `sed`
 
+Lesson materials: [https://github.com/rikutakei/minibaz_regex](https://github.com/rikutakei/minibaz_regex)
+
 End of workshop survey: [https://tinyurl.com/minibaz2020-regex](https://tinyurl.com/minibaz2020-regex)
 
 ---
