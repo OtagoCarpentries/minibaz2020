@@ -180,7 +180,7 @@ This report will include examples of:
 
 **Required software:** R and RStudio (refer to [setup instructions](https://github.com/OtagoCarpentries/minibaz2020/blob/master/setup.md))
 
-**Data:** [Workshop Github](https://github.com/MattBixley/workflow_workshop) which contains the `workshop_data.zip` file.  
+**Data:** [Workshop Github](https://github.com/MattBixley/workflow_workshop) which contains the `workflow_data.zip` file.  
 
 ---
 
