@@ -196,6 +196,8 @@ This workshop is aimed at people who are already using tools such as the Unix sh
 
 **Required software:** Snakemake (refer to [setup instructions](https://github.com/OtagoCarpentries/minibaz2020/blob/master/setup.md))
 
+End of workshop survey: [https://tinyurl.com/minibaz2020-snakemake](https://tinyurl.com/minibaz2020-snakemake)
+
 ---
 
 ## Eventbrite
