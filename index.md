@@ -182,6 +182,8 @@ This report will include examples of:
 
 **Data:** [Workshop Github](https://github.com/MattBixley/workflow_workshop) which contains the `workflow_data.zip` file.  
 
+End of workshop survey: [https://tinyurl.com/minibaz2020-workflow](https://tinyurl.com/minibaz2020-workflow)
+
 ---
 
 ### Snakemake
